@@ -1,0 +1,6 @@
+client\SpeedTester.class
+client\SpeedTester$1.class
+client\StreamingClient.class
+server\ConversionTask.class
+server\VideoFile.class
+server\MissingVideoVersion.class
