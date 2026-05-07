@@ -249,6 +249,7 @@ These issues were resolved through process management improvements, layout fixes
 
 <img width="872" height="627" alt="image" src="https://github.com/user-attachments/assets/fe25e170-2965-42e0-88ac-56f92d0363f0" />
 
+
 <img width="860" height="613" alt="image" src="https://github.com/user-attachments/assets/adc8efb7-6144-4e3e-a712-12c6557cd58b" />
 
 
